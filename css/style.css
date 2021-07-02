@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card1 {
+  vertical-align: bottom;
+}
+
+#cnv1 {
+  padding: 4px;
+  border: 1px solid black;
+}
+
+#color {
+  width: 40px;
+  height: 40px;
+}
