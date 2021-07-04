@@ -17,6 +17,7 @@ function canvasCreator(canvasId, colorId, imageSrc) {
     canvas = document.getElementById(canvasId);
     ctx = canvas.getContext('2d');
     color = "";
+    ctx.rect(0, 0, canvas.width, canvas.height);
     getInput = document.querySelector(colorId);
     img = new Image();
     img.src = imageSrc;
