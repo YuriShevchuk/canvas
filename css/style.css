@@ -17,3 +17,17 @@
   width: 40px;
   height: 40px;
 }
+
+.card2 {
+  vertical-align: bottom;
+}
+
+#cnv2 {
+  padding: 4px;
+  border: 1px solid black;
+}
+
+#color2 {
+  width: 40px;
+  height: 40px;
+}
